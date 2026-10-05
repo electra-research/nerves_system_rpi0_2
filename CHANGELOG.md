@@ -16,6 +16,13 @@ follows:
    releases, and Linux kernel updates. They're also made to fix bugs and add
    features to the build infrastructure.
 
+## v2.1.2-electra.1
+
+Electra fork of upstream v2.1.2.
+
+* Changes
+  * Add openocd, for flashing our STM microcontroller
+
 ## v2.1.2
 
 This is a security and bug fix release.
